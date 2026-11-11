@@ -1,6 +1,6 @@
 # Anesthesia-DAO
 
-Suspended Animation and Cryo-Storage Protocol for IA agents
+Suspended Animation and Cryo-Storage Protocol for AI agents
 
 A service for the secure dumping (consciousness snapshotting), encryption, and long-term physical or decentralized storage of an AI agent's persona.
 
